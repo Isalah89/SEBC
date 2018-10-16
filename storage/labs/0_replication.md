@@ -94,7 +94,5 @@
     Number of data-nodes:          4
     Number of racks:               1
     FSCK ended at Tue Oct 16 15:34:28 UTC 2018 in 1 milliseconds
-
-
-The filesystem under path '/user/imene/Isalah89' is HEALTHY
+    The filesystem under path '/user/imene/Isalah89' is HEALTHY
     ```
